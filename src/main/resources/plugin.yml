@@ -1,0 +1,4 @@
+name: HungerEnhanced
+main: com.ibexmc.hungerenhanced.HungerEnhanced
+version: 1.0
+api-version: 1.14
